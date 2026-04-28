@@ -1,5 +1,3 @@
-// g++ diamonds.cpp -o diamonds
-//./diamonds
 #include <iostream>
 using namespace std;
 
@@ -34,3 +32,5 @@ int main() {
 
   return 0;
 }
+
+// John Cho Che
